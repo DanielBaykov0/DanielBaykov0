@@ -1,4 +1,4 @@
-### Hello. I am Daniel 👋
+### Hello, I am Daniel 👋
 
 Enthusiastic software engineer for problem-solving and logical thinking, deeply passionate about Java and Spring technologies.  
 You can learn more about me through my [CV](https://danielbaykov0.github.io/DanielBaykov.github.io/)  
@@ -11,18 +11,8 @@ You can find me on [![Linkedin Badge](https://img.shields.io/badge/-black?style=
 - Email: danibaikov@gmail.com
 
 ### Github Stats  
-<table>
-  <tr>
-    <td>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielbaykov0&theme=dark&background=000000)](https://git.io/streak-stats)
+| <a href="https://git.io/streak-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=danielbaykov0&theme=dark&background=000000" alt="GitHub Streak"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbaykov0&layout=compact&theme=vision-friendly-dark" alt="Top Langs"></a> |
+| ------------- | ------------- |
 
-    </td>
-    <td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbaykov0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-    </td>
-  </tr>
-</table>
 
